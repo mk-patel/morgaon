@@ -147,12 +147,13 @@
 		 <img src="morgaon.jpg" width="250px" height="220px"/>
 		 </div>
 		 
-	</div><br>
-	<div><p style="color:Green;font-weight:800;">आप / aapka Gaon सफलतापूर्वक रजिस्टर हो चुके हैं।
+	</div>
+	  <br>
+	<div>
+		<p style="color:Green;font-weight:800;">आप / aapka Gaon सफलतापूर्वक रजिस्टर हो चुके हैं।
 </p>
-agar aapne user bane hai to ...
  <p style="color:red;font-weight:600;">कृपया प्रतीक्षा करें हम आपको
-कॉल करने के बाद आपका username और password कुछ ही देर में भेजेंगे।</p
+	 कॉल करने के बाद आपका username और password कुछ ही देर में भेजेंगे।</p>
 
 
 </div>
